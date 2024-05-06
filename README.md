@@ -10,12 +10,15 @@ Exemplo no Azure: máquinas virtuais do Azure (Azure Virtual Machines) permitem 
 
 Referência: [https://azure.microsoft.com/en-us/overview/what-is-iaas/](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-iaas/)
 
+
 ## PaaS (Platform as a Service)
 Oferece um ambiente de desenvolvimento e implantação na nuvem, onde os usuários podem criar, gerenciar e hospedar aplicações sem se preocupar com a infraestrutura subjacente. Este modelo é ideal para desenvolvedores que querem se concentrar no código e na inovação, sem a carga de gerenciar servidores, armazenamento, rede e sistemas operacionais.
 
 Exemplo no Azure: Azure App Service é um exemplo de PaaS que permite aos desenvolvedores construir, implantar e escalar aplicações web e APIs rapidamente, com suporte a múltiplas linguagens de programação, como .NET, .NET Core, Java, Ruby, Node.js, PHP ou Python.
 
-Referência: https://azure.microsoft.com/en-us/overview/what-is-paas/
+Referência: [https://azure.microsoft.com/en-us/overview/what-is-paas/](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-paas/)
+
+
 
 
 
