@@ -8,7 +8,8 @@ Fornece aos usuários acesso a recursos de computação, como servidores virtuai
 
 Exemplo no Azure: máquinas virtuais do Azure (Azure Virtual Machines) permitem aos usuários implantar uma VM na nuvem, que pode ser configurada para diversos tamanhos e propósitos, desde servidores de jogos até servidores de aplicações complexas.
 
-Referência: https://azure.microsoft.com/en-us/overview/what-is-iaas/
+Referência: [https://azure.microsoft.com/en-us/overview/what-is-iaas/](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-iaas/)
+
 
 
 
